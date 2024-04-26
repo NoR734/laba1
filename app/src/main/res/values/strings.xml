@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">laba1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Здравствуйте!</string>
+    <string name="on_knopka">Нажмите на кнопку</string>
+    <string name="knopka">Нажать</string>
+    <string name="v_centre">Меня зовут Глеб Белянский, группа ИВТ-233</string>
+
 </resources>
